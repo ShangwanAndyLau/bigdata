@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigdata.iml" filepath="$PROJECT_DIR$/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topN/topN.iml" filepath="$PROJECT_DIR$/topN/topN.iml" />
+    </modules>
+  </component>
+</project>
