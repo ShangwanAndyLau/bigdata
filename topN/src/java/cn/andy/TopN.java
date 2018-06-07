@@ -1,4 +1,4 @@
-package java.cn.andy;
+package cn.andy;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
@@ -17,23 +17,27 @@ import java.util.TreeMap;
 
 public class TopN {
 
-
     public static class TopTenMapper extends
             Mapper<Object, Text, NullWritable, IntWritable> {
 
         private TreeMap<Integer, String> repToRecordMap = new TreeMap<Integer, String>();
 
         @Override
-        protected void map(Object key, Text value, Context context) throws IOException, InterruptedException {
+        protected void map(Object key, Text line, Context context) throws IOException, InterruptedException {
             int N = 10; //默认为Top10
             N = Integer.parseInt(context.getConfiguration().get("N"));
-            StringTokenizer itr = new StringTokenizer(value.toString());
-            while (itr.hasMoreTokens()) {
-                repToRecordMap.put(Integer.parseInt(itr.nextToken()), " ");
-                if (repToRecordMap.size() > N) {
-                    repToRecordMap.remove(repToRecordMap.firstKey());
+
+            String[] values = line.toString().split(" ");
+            for(String value : values){
+                StringTokenizer itr = new StringTokenizer(value.toString());
+                while (itr.hasMoreTokens()) {
+                    repToRecordMap.put(Integer.parseInt(itr.nextToken()), " ");
+                    if (repToRecordMap.size() > N) {
+                        repToRecordMap.remove(repToRecordMap.firstKey());
+                    }
                 }
             }
+
         }
 
         @Override
@@ -72,21 +76,21 @@ public class TopN {
 
 
     public static void main(String[] args){
-        if (args.length != 3) {
+        /*if (args.length != 3) {
             throw new IllegalArgumentException(
                     "!!!!!!!!!!!!!! Usage!!!!!!!!!!!!!!: hadoop jar <jar-name> "
                             + "TopN.TopN "
                             + "<the value of N>"
                             + "<input-path> "
                             + "<output-path>");
-        }
+        }*/
         Configuration conf = new Configuration();
-        conf.set("N", args[0]);
+        conf.set("N", "10");
         try {
             Job job = Job.getInstance(conf, "TopN");
             job.setJobName("TopN");
-            Path inputPath = new Path(args[1]);
-            Path outputPath = new Path(args[2]);
+            Path inputPath = new Path("D:\\idea_project\\bigdata\\topN\\src\\resources\\topN.txt");
+            Path outputPath = new Path("D:\\idea_project\\bigdata\\topN\\src\\resources\\topN_result.txt");
             FileInputFormat.setInputPaths(job, inputPath);
             FileOutputFormat.setOutputPath(job, outputPath);
             job.setJarByClass(TopN.class);
