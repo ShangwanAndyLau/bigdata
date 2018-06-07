@@ -2,78 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="801749f3-827d-4a93-ae10-365b0934e83b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__asm_asm_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_curator_curator_client_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_curator_curator_framework_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_6_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_6_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_6_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_htrace_htrace_core_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/topN/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_4_0.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_19.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_3_1_0.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_6_4.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_3_1_0.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_6_4.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_hsqldb_hsqldb_2_3_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_5.xml" afterPath="$PROJECT_DIR$/topN/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/.idea/workspace.xml" afterPath="$PROJECT_DIR$/topN/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/topN/bigdata.topN.iml" afterPath="$PROJECT_DIR$/topN/bigdata.topN.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,8 +42,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/topN/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -188,7 +119,8 @@
             </path>
             <path>
               <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="topN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -324,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528042687368</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="topN">
+      <created>1528381805888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528381805888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -337,12 +276,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26126608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26126608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -480,8 +419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/topN/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
