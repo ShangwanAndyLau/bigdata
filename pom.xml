@@ -23,6 +23,7 @@
   </properties>
 
   <dependencies>
+    <!--本地测试时引入该jar包-->
     <dependency>
       <groupId>org.apache.hadoop</groupId>
       <artifactId>hadoop-mapreduce-client-common</artifactId>
