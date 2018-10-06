@@ -7,14 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bigdatatopN" />
+        <module name="jvmLearning" />
         <module name="sorting-algorithm" />
+        <module name="spark" />
         <module name="topN" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bigdata" target="1.7" />
       <module name="bigdatatopN" target="1.7" />
+      <module name="jvmLearning" target="1.7" />
       <module name="sorting-algorithm" target="1.8" />
+      <module name="spark" target="1.7" />
       <module name="topN" target="1.7" />
     </bytecodeTargetLevel>
   </component>

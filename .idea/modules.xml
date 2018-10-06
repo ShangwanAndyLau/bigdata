@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bigdata.iml" filepath="$PROJECT_DIR$/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvmLearning/jvmLearning.iml" filepath="$PROJECT_DIR$/jvmLearning/jvmLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/sorting-algorithm/sorting-algorithm.iml" filepath="$PROJECT_DIR$/sorting-algorithm/sorting-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark/spark.iml" filepath="$PROJECT_DIR$/spark/spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/topN/topN.iml" filepath="$PROJECT_DIR$/topN/topN.iml" />
     </modules>
   </component>
